@@ -1,9 +1,12 @@
 .title_body{
+    padding-top: 2%;
     font-family:georgia;
     font-style:italic;
+    color: rgb(189, 195, 253);
 }
 .side_title {
     text-align: center;
+    color: rgb(152, 162, 255);
 }
 .web_title {
     background-color:rgb(170, 178, 248); 
@@ -22,3 +25,18 @@
     margin-right: auto;
     width: 100%;
     padding: 2%;
+}
+.comp_pic_title {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    padding: 20px;
+color: rgb(145, 216, 248);
+}
+.img_comp_body{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+
+}
