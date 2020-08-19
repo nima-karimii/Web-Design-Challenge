@@ -1,0 +1,24 @@
+.title_body{
+    font-family:georgia;
+    font-style:italic;
+}
+.side_title {
+    text-align: center;
+}
+.web_title {
+    background-color:rgb(170, 178, 248); 
+    font-size: 25px; 
+    padding: 10px ;
+}
+.img_body {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+  }
+  .img_side{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    padding: 2%;
